@@ -1,0 +1,26 @@
+{
+  "name": "svgicons",
+  "version": "1.0.0",
+  "description": "A small collection of svg icons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toubou91/svgicons.git"
+  },
+  "keywords": [
+    "svg",
+    "icons",
+    "iconset",
+    "circle",
+    "line"
+  ],
+  "author": "Thodoris Bais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toubou91/svgicons/issues"
+  },
+  "homepage": "https://github.com/toubou91/svgicons#readme"
+}
